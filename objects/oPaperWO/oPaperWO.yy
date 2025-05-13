@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPaperSpotB",
+  "name": "oPaperWO",
   "spriteId": {
-    "name": "sPaperSpotB",
-    "path": "sprites/sPaperSpotB/sPaperSpotB.yy",
+    "name": "sPaperWO",
+    "path": "sprites/sPaperWO/sPaperWO.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,13 +24,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Labels and Buttons",
-    "path": "folders/Objects/Labels and Buttons.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

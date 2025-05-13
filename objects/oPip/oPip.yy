@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPaperSpotB",
+  "name": "oPip",
   "spriteId": {
-    "name": "sPaperSpotB",
-    "path": "sprites/sPaperSpotB/sPaperSpotB.yy",
+    "name": "sPip",
+    "path": "sprites/sPip/sPip.yy",
   },
   "solid": false,
   "visible": true,
@@ -26,11 +26,12 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Labels and Buttons",
-    "path": "folders/Objects/Labels and Buttons.yy",
+    "name": "Pipettes",
+    "path": "folders/Objects/Pipettes.yy",
   },
 }
