@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTTW",
+  "name": "oTTMi",
   "spriteId": {
-    "name": "sTTW",
-    "path": "sprites/sTTW/sTTW.yy",
+    "name": "sTTMi",
+    "path": "sprites/sTTMi/sTTMi.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,7 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":4,"eventType":6,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":6,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
